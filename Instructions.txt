@@ -1,0 +1,10 @@
+# Hi professor Gio!
+# The project is kind of the modification of the gen_audio.py from week6...
+# It's through console using in the vscode python 3.12.4
+When you clip the play,
+enter one's name...(Ada is recommended...)
+enter one's age...
+It will generate a segment of music, the music is same as the age with a name meaning similar to the name...
+Bonus! Before the music begins, the audio will play a segment of audio-------
+"DJ 'one's name'! We the best music!!!"
+I hate DJ Khaled :(
